@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh Wadhwani</h1>
-<h3 align="center">I'm passionate about Full stack web & app development. You can also find me interested in ML/DL</h3>
+<h3 align="center">Full Stack web developer | WEB3 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshwadhwani&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshwadhwani" /> </p>
 
