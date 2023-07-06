@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack web developer | WEB3 </h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiteshwadhwani" alt="hiteshwadhwani" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hiteshw43883697" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshw43883697?logo=twitter&style=for-the-badge" alt="hiteshw43883697" /></a> </p>
 
