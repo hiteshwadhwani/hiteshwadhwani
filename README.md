@@ -7,11 +7,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@hiteshwadhwani1403](https://medium.com/@hiteshwadhwani1403)
 
-- 💬 Ask me about **ML/DL and Web Development**
+- 💬 Ask me about **WEB DEV | ML | WEB3**
 
 - 📫 How to reach me **hiteshwadhwani1403@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/hiteshwadhwani/resume/blob/main/resume_2023_1.pdf](https://github.com/hiteshwadhwani/resume/blob/main/resume_2023_1.pdf)
+- 📄 Know about my experiences [https://github.com/hiteshwadhwani/resume/blob/main/resume_2023_1.pdf](https://drive.google.com/file/d/16Nh091hMWFO2h25K4SdSSTqOiBdG9RUK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
