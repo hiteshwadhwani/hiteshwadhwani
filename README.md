@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/hiteshw43883697" target="blank"><img src="https://img.shields.io/twitter/follow/hiteshw43883697?logo=twitter&style=for-the-badge" alt="hiteshw43883697" /></a> </p>
 
-# - 📝 I regularly write articles on [https://medium.com/@hiteshwadhwani1403](https://medium.com/@hiteshwadhwani1403)
 
 - 💬 Ask me about **WEB DEV | ML | WEB3**
 
