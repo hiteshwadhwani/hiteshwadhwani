@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitesh Wadhwani</h1>
-<h3 align="center">Full Stack web developer | WEB3 </h3>
+<h3 align="center">Passionate Web Developer creating innovative and user-centric web applications</h3>
 
 
 
