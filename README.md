@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hiteshwadhwani1403@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/hiteshwadhwani/resume/blob/main/resume_2023_1.pdf](https://drive.google.com/file/d/16Nh091hMWFO2h25K4SdSSTqOiBdG9RUK/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1hmaF9xpLSPgv2MerxltnTrMvPrm3OKJ5/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
