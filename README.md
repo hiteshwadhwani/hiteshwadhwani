@@ -43,8 +43,6 @@
 ###
 
   &bullet; [Resume](https://drive.google.com/file/d/1HZJEZ0nrijQ_oLLeBlXyThETojpDy-9g/view?usp=sharing)
-  ### &bullet; [Mail](mailto:mail@utkarshchourasia.in)
-  ### &bullet; [Website / Portfolio](https://utkarshchourasia.in/)
   &bullet; [LinkedIn](https://www.linkedin.com/in/hitesh-wadhwani1403/)
   &bullet; [Twitter](https://twitter.com/Hiteshw43883697)
 
