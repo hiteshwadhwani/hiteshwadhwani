@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">Connect with me on</h3>
+## 🔗 Links
 
 ###
 
