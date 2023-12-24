@@ -42,6 +42,10 @@
 
 ###
 
-<div align="left"><a href="https://www.linkedin.com/in/hitesh-wadhwani1403/" target="_blank">LinkedIn</a><a href="https://twitter.com/Hiteshw43883697" target="_blank">Twitter</a></div>
+  &bullet; [Resume](https://drive.google.com/file/d/1HZJEZ0nrijQ_oLLeBlXyThETojpDy-9g/view?usp=sharing)
+  ### &bullet; [Mail](mailto:mail@utkarshchourasia.in)
+  ### &bullet; [Website / Portfolio](https://utkarshchourasia.in/)
+  &bullet; [LinkedIn](https://www.linkedin.com/in/hitesh-wadhwani1403/)
+  &bullet; [Twitter](https://twitter.com/Hiteshw43883697)
 
 ###
