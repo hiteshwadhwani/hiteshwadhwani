@@ -8,7 +8,7 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">📚 I'm currently learning System Design<br>I love contributing to open source<br>💬 Ask me about Full stack web development<br>🎲 Fun fact: I'm crazy about Automobiles</p>
+<p align="left">📚 I'm currently learning System Design<br>❤️ I love contributing to open source<br>💬 Ask me about Full stack web development<br>🎲 Fun fact: I'm crazy about Automobiles</p>
 
 ###
 
