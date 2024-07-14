@@ -1,7 +1,7 @@
 <h1 align="left">Hello There 👋</h1>
 
 
-<p align="left">My name is Hitesh and I'm a final-year CS engineer who is stoked about the web and AI</p>
+<p align="left">My name is Hitesh Wadhwani and I'm a CS engineer who is stoked about the web and AI</p>
 
 ###
 
