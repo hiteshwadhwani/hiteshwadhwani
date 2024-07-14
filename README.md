@@ -8,7 +8,7 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">📚 I'm currently learning System Design<br>💬 Ask me about Full stack web development<br>🎲 Fun fact: I'm crazy about Automobiles</p>
+<p align="left">📚 I'm currently learning System Design<br>I love contributing to open source<br>💬 Ask me about Full stack web development<br>🎲 Fun fact: I'm crazy about Automobiles</p>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-  &bullet; [Resume](https://drive.google.com/file/d/1HZJEZ0nrijQ_oLLeBlXyThETojpDy-9g/view?usp=sharing)
+  &bullet; [Resume](https://drive.google.com/file/d/1l7l0v34LsEAydjgtcYJ786bGLYJnEfKi/view?usp=sharing)
   &bullet; [LinkedIn](https://www.linkedin.com/in/hitesh-wadhwani1403/)
   &bullet; [Twitter](https://twitter.com/Hiteshw43883697)
 
