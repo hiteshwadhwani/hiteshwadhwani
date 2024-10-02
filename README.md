@@ -8,7 +8,7 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">📚 I'm currently exploring Distributed Systems and GO<br>❤️ I love contributing to open source<br>💬 Ask me about anything that is complex to build<br>🎲 Fun fact: I'm crazy about Automobiles</p>
+<p align="left">📚 I'm currently exploring GoLang<br>❤️ I love contributing to open source<br>💬 Ask me about anything that is complex to build<br>🎲 Fun fact: I'm crazy about Automobiles</p>
 
 ###
 
