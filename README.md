@@ -16,6 +16,8 @@ Some of my recent projects:
 - <a href="https://github.com/hiteshwadhwani/shop-with-gpt">Shop With GPT</a>
 
 Lets connect <a href="https://www.linkedin.com/in/hitesh-wadhwani1403/">Linkedin</a> <a href="https://x.com/Hiteshw43883697">X</a>
+
+</pre>
   
 <!--   Following projects are my current focus:
 
@@ -31,4 +33,3 @@ Lets connect <a href="https://www.linkedin.com/in/hitesh-wadhwani1403/">Linkedin
 - <a href="https://avi.im/blag/2021/rc-day-24/" rel="nofollow">Hacking Go compiler to add a new keyword</a>
 - <a href="https://avi.im/blag/2021/fast-sqlite-inserts/" rel="nofollow">Towards Inserting One Billion Rows in SQLite Under A Minute</a>
 - <a href="https://avi.im/blag/2021/mongo-dupes-in-unique-index/" rel="nofollow">I ended up adding duplicate records on a unique index in MongoDB</a> -->
-</pre>
