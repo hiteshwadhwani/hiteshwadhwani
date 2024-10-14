@@ -10,6 +10,11 @@ Hi there, I am Hitesh 👋
 
 I am an open-source enthusiast ❤️ and contribute in my free time. 
 
+Some of my recent projects:
+
+- <a href="https://github.com/hiteshwadhwani/email-finder">Email Finder</a>
+- <a href="https://github.com/hiteshwadhwani/shop-with-gpt">Shop With GPT</a>
+
 Lets connect <a href="https://www.linkedin.com/in/hitesh-wadhwani1403/">Linkedin</a> <a href="https://x.com/Hiteshw43883697">X</a>
   
 <!--   Following projects are my current focus:
