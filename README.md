@@ -1,35 +1,27 @@
-<h1 align="left">Hello There 👋</h1>
+<pre>
+$ cat profile.txt
 
+Hi there, I am Hitesh 👋
 
-<p align="left">My name is Hitesh Wadhwani and I'm a CS engineer who is stoked about the web and AI</p>
+- I work as a full stack developer, and mostly code in Typescript, Go and Python
+- I am interested in distributed systems, scalability, and GenAI.
+- I am building <a href="https://github.com/hiteshwadhwani/bitcask-datstore">CaskDB</a> datastore which is a key-value store optimized for faster reads and writes in Go
+- Here is my <a href="https://drive.google.com/file/d/1EpB6uH19Bm7-1Rl9Gez8crysON0SRbU4/view?usp=sharing">resume</a>
 
-###
+I am an open-source enthusiast ❤️ and contribute in my free time. 
+  
+<!--   Following projects are my current focus:
 
-<h2 align="left">About me</h2>
+- <a href="https://github.com/avinassh/grpc-errors">gRPC Errors</a>
+- <a href="https://github.com/verloop/twirpy">twirpy</a>
+- <a href="https://github.com/avinassh/fast-sqlite3-inserts">Fast SQLite Inserts</a>
+- <a href="https://github.com/avinassh/fluvio-go">fluvio-go</a>
+- <a href="https://github.com/avinassh/pastry">pastry</a>
+- <a href="https://github.com/avinassh/grusto">grusto</a> -->
 
+<!-- Here are my two recent blog posts:
 
-<p align="left">📚 I'm currently exploring GoLang<br>❤️ I love contributing to open source<br>💬 Ask me about anything that is complex to build<br>🎲 Fun fact love tech, music and cars</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,python,go,react,nextjs,nodejs,aws)](https://skillicons.dev)
-
-###
-
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=hiteshwadhwani" height="150" alt="languages graph"  /></div>
-
-###
-
-## 🔗 Links
-
-###
-
-  &bullet; [Resume](https://drive.google.com/file/d/1l7l0v34LsEAydjgtcYJ786bGLYJnEfKi/view?usp=sharing)
-  &bullet; [LinkedIn](https://www.linkedin.com/in/hitesh-wadhwani1403/)
-  &bullet; [Twitter](https://twitter.com/Hiteshw43883697)
-
-###
+- <a href="https://avi.im/blag/2021/rc-day-24/" rel="nofollow">Hacking Go compiler to add a new keyword</a>
+- <a href="https://avi.im/blag/2021/fast-sqlite-inserts/" rel="nofollow">Towards Inserting One Billion Rows in SQLite Under A Minute</a>
+- <a href="https://avi.im/blag/2021/mongo-dupes-in-unique-index/" rel="nofollow">I ended up adding duplicate records on a unique index in MongoDB</a> -->
+</pre>
