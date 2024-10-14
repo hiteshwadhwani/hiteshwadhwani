@@ -9,6 +9,8 @@ Hi there, I am Hitesh 👋
 - Here is my <a href="https://drive.google.com/file/d/1EpB6uH19Bm7-1Rl9Gez8crysON0SRbU4/view?usp=sharing">resume</a>
 
 I am an open-source enthusiast ❤️ and contribute in my free time. 
+
+Lets connect <a href="https://www.linkedin.com/in/hitesh-wadhwani1403/">Linkedin</a> <a href="https://x.com/Hiteshw43883697">X</a>
   
 <!--   Following projects are my current focus:
 
